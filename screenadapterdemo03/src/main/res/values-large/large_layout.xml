@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    当程序运行在大屏手机上时,系统会自动读取res/values-large文件夹下的资源文件,
+    发现根节点是resources,子节点是item的name属性名等于默认情况下显示的布局文件的逻辑名称,
+    type="layout"的属性键值对,此时就能够知道读取的布局文件的物理路径为:@layout/activity_large
+    -->
+    <item name="activity_main" type="layout">@layout/activity_large</item>
+</resources>

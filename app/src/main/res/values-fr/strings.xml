@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Écran ShiPei</string>
+
+    <string name="hello_world">Bonjour le!</string>
+    <string name="action_settings">La création</string>
+
+
+    <string name="userName_info">Dans la demande</string>
+    <string name="pwd_info">Prie passe</string>
+    <string name="login">à</string>
+    <string name="reset">remplacement</string>
+
+
+    <string name="user_name_not_empty">L’impossibilité pour les utilisateurs!</string>
+    <string name="pwd_name_not_empty">Pour les mots de passe!</string>
+    <string name="login_success">Succès à!</string>
+    <string name="login_fail">En cas de!</string>
+
+
+
+
+
+</resources>
